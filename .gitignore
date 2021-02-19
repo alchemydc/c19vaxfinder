@@ -1,3 +1,13 @@
+#vscode
+*.code-workspace
+
+# py stuff (osx)
+bin/
+pyvenv.cfg
+
+# osx
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

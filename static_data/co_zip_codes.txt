@@ -1,0 +1,642 @@
+ZIP Code 80001	Arvada	Jefferson	P.O. Box
+ZIP Code 80002	Arvada	Jefferson	Standard
+ZIP Code 80003	Arvada	Jefferson	Standard
+ZIP Code 80004	Arvada	Jefferson	Standard
+ZIP Code 80005	Arvada	Jefferson	Standard
+ZIP Code 80006	Arvada	Jefferson	P.O. Box
+ZIP Code 80007	Arvada	Jefferson	Standard
+ZIP Code 80010	Aurora	Arapahoe	Standard
+ZIP Code 80011	Aurora	Arapahoe	Standard
+ZIP Code 80012	Aurora	Arapahoe	Standard
+ZIP Code 80013	Aurora	Arapahoe	Standard
+ZIP Code 80014	Aurora	Arapahoe	Standard
+ZIP Code 80015	Aurora	Arapahoe	Standard
+ZIP Code 80016	Aurora	Arapahoe	Standard
+ZIP Code 80017	Aurora	Arapahoe	Standard
+ZIP Code 80018	Aurora	Arapahoe	Standard
+ZIP Code 80019	Aurora	Adams	Standard
+ZIP Code 80020	Broomfield	Broomfield	Standard
+ZIP Code 80021	Broomfield	Jefferson	Standard
+ZIP Code 80022	Commerce City	Adams	Standard
+ZIP Code 80023	Broomfield	Broomfield	Standard
+ZIP Code 80024	Dupont	Adams	P.O. Box
+ZIP Code 80025	Eldorado Springs	Boulder	P.O. Box
+ZIP Code 80026	Lafayette	Boulder	Standard
+ZIP Code 80027	Louisville	Boulder	Standard
+ZIP Code 80030	Westminster	Adams	Standard
+ZIP Code 80031	Westminster	Adams	Standard
+ZIP Code 80033	Wheat Ridge	Jefferson	Standard
+ZIP Code 80034	Wheat Ridge	Jefferson	P.O. Box
+ZIP Code 80035	Westminster	Adams	P.O. Box
+ZIP Code 80036	Westminster	Adams	P.O. Box
+ZIP Code 80037	Commerce City	Adams	P.O. Box
+ZIP Code 80038	Broomfield	Broomfield	P.O. Box
+ZIP Code 80040	Aurora	Adams	P.O. Box
+ZIP Code 80041	Aurora	Arapahoe	P.O. Box
+ZIP Code 80042	Aurora	Adams	P.O. Box
+ZIP Code 80044	Aurora	Arapahoe	P.O. Box
+ZIP Code 80045	Aurora	Adams	Standard
+ZIP Code 80046	Aurora	Arapahoe	P.O. Box
+ZIP Code 80047	Aurora	Arapahoe	P.O. Box
+ZIP Code 80101	Agate	Elbert	Standard
+ZIP Code 80102	Bennett	Adams	Standard
+ZIP Code 80103	Byers	Arapahoe	Standard
+ZIP Code 80104	Castle Rock	Douglas	Standard
+ZIP Code 80105	Deer Trail	Arapahoe	Standard
+ZIP Code 80106	Elbert	El Paso	Standard
+ZIP Code 80107	Elizabeth	Elbert	Standard
+ZIP Code 80108	Castle Rock	Douglas	Standard
+ZIP Code 80109	Castle Rock	Douglas	Standard
+ZIP Code 80110	Englewood	Arapahoe	Standard
+ZIP Code 80111	Englewood	Arapahoe	Standard
+ZIP Code 80112	Englewood	Arapahoe	Standard
+ZIP Code 80113	Englewood	Arapahoe	Standard
+ZIP Code 80116	Franktown	Douglas	Standard
+ZIP Code 80117	Kiowa	Elbert	Standard
+ZIP Code 80118	Larkspur	Douglas	Standard
+ZIP Code 80120	Littleton	Arapahoe	Standard
+ZIP Code 80121	Littleton	Arapahoe	Standard
+ZIP Code 80122	Littleton	Arapahoe	Standard
+ZIP Code 80123	Littleton	Jefferson	Standard
+ZIP Code 80124	Lone Tree	Douglas	Standard
+ZIP Code 80125	Littleton	Douglas	Standard
+ZIP Code 80126	Littleton	Douglas	Standard
+ZIP Code 80127	Littleton	Jefferson	Standard
+ZIP Code 80128	Littleton	Jefferson	Standard
+ZIP Code 80129	Littleton	Douglas	Standard
+ZIP Code 80130	Littleton	Douglas	Standard
+ZIP Code 80131	Louviers	Douglas	P.O. Box
+ZIP Code 80132	Monument	El Paso	Standard
+ZIP Code 80133	Palmer Lake	El Paso	Standard
+ZIP Code 80134	Parker	Douglas	Standard
+ZIP Code 80135	Sedalia	Douglas	Standard
+ZIP Code 80136	Strasburg	Adams	Standard
+ZIP Code 80137	Watkins	Adams	Standard
+ZIP Code 80138	Parker	Douglas	Standard
+ZIP Code 80150	Englewood	Arapahoe	P.O. Box
+ZIP Code 80151	Englewood	Arapahoe	P.O. Box
+ZIP Code 80155	Englewood	Arapahoe	P.O. Box
+ZIP Code 80160	Littleton	Arapahoe	P.O. Box
+ZIP Code 80161	Littleton	Arapahoe	P.O. Box
+ZIP Code 80162	Littleton	Jefferson	P.O. Box
+ZIP Code 80163	Littleton	Douglas	P.O. Box
+ZIP Code 80165	Littleton	Arapahoe	Unique
+ZIP Code 80166	Littleton	Arapahoe	Unique
+ZIP Code 80201	Denver	Denver	P.O. Box
+ZIP Code 80202	Denver	Denver	Standard
+ZIP Code 80203	Denver	Denver	Standard
+ZIP Code 80204	Denver	Denver	Standard
+ZIP Code 80205	Denver	Denver	Standard
+ZIP Code 80206	Denver	Denver	Standard
+ZIP Code 80207	Denver	Denver	Standard
+ZIP Code 80208	Denver	Denver	Unique
+ZIP Code 80209	Denver	Denver	Standard
+ZIP Code 80210	Denver	Denver	Standard
+ZIP Code 80211	Denver	Denver	Standard
+ZIP Code 80212	Denver	Denver	Standard
+ZIP Code 80214	Denver	Jefferson	Standard
+ZIP Code 80215	Denver	Jefferson	Standard
+ZIP Code 80216	Denver	Denver	Standard
+ZIP Code 80217	Denver	Denver	P.O. Box
+ZIP Code 80218	Denver	Denver	Standard
+ZIP Code 80219	Denver	Denver	Standard
+ZIP Code 80220	Denver	Denver	Standard
+ZIP Code 80221	Denver	Adams	Standard
+ZIP Code 80222	Denver	Denver	Standard
+ZIP Code 80223	Denver	Denver	Standard
+ZIP Code 80224	Denver	Denver	Standard
+ZIP Code 80225	Denver	Jefferson	P.O. Box
+ZIP Code 80226	Denver	Jefferson	Standard
+ZIP Code 80227	Denver	Jefferson	Standard
+ZIP Code 80228	Denver	Jefferson	Standard
+ZIP Code 80229	Denver	Adams	Standard
+ZIP Code 80230	Denver	Denver	Standard
+ZIP Code 80231	Denver	Denver	Standard
+ZIP Code 80232	Denver	Jefferson	Standard
+ZIP Code 80233	Denver	Adams	Standard
+ZIP Code 80234	Denver	Adams	Standard
+ZIP Code 80235	Denver	Jefferson	Standard
+ZIP Code 80236	Denver	Denver	Standard
+ZIP Code 80237	Denver	Denver	Standard
+ZIP Code 80238	Denver	Denver	Standard
+ZIP Code 80239	Denver	Denver	Standard
+ZIP Code 80241	Thornton	Adams	Standard
+ZIP Code 80243	Denver	Denver	Unique
+ZIP Code 80244	Denver	Denver	Unique
+ZIP Code 80246	Denver	Denver	Standard
+ZIP Code 80247	Denver	Arapahoe	Standard
+ZIP Code 80248	Denver	Denver	P.O. Box
+ZIP Code 80249	Denver	Denver	Standard
+ZIP Code 80250	Denver	Denver	P.O. Box
+ZIP Code 80256	Denver	Denver	Unique
+ZIP Code 80257	Denver	Denver	Unique
+ZIP Code 80259	Denver	Denver	Unique
+ZIP Code 80260	Denver	Adams	Standard
+ZIP Code 80261	Denver	Denver	Unique
+ZIP Code 80262	Denver	Denver	Unique
+ZIP Code 80263	Denver	Denver	Unique
+ZIP Code 80264	Denver	Denver	Standard
+ZIP Code 80265	Denver	Denver	Standard
+ZIP Code 80266	Denver	Denver	Standard
+ZIP Code 80271	Denver	Denver	Unique
+ZIP Code 80273	Denver	Denver	Unique
+ZIP Code 80274	Denver	Denver	Unique
+ZIP Code 80281	Denver	Denver	Unique
+ZIP Code 80290	Denver	Denver	Standard
+ZIP Code 80291	Denver	Denver	Unique
+ZIP Code 80293	Denver	Denver	Standard
+ZIP Code 80294	Denver	Denver	Standard
+ZIP Code 80299	Denver	Denver	Standard
+ZIP Code 80301	Boulder	Boulder	Standard
+ZIP Code 80302	Boulder	Boulder	Standard
+ZIP Code 80303	Boulder	Boulder	Standard
+ZIP Code 80304	Boulder	Boulder	Standard
+ZIP Code 80305	Boulder	Boulder	Standard
+ZIP Code 80306	Boulder	Boulder	P.O. Box
+ZIP Code 80307	Boulder	Boulder	P.O. Box
+ZIP Code 80308	Boulder	Boulder	P.O. Box
+ZIP Code 80309	Boulder	Boulder	Unique
+ZIP Code 80310	Boulder	Boulder	Unique
+ZIP Code 80314	Boulder	Boulder	Unique
+ZIP Code 80401	Golden	Jefferson	Standard
+ZIP Code 80402	Golden	Jefferson	P.O. Box
+ZIP Code 80403	Golden	Jefferson	Standard
+ZIP Code 80419	Golden	Jefferson	Unique
+ZIP Code 80420	Alma	Park	P.O. Box
+ZIP Code 80421	Bailey	Park	Standard
+ZIP Code 80422	Black Hawk	Gilpin	Standard
+ZIP Code 80423	Bond	Eagle	Standard
+ZIP Code 80424	Breckenridge	Summit	Standard
+ZIP Code 80425	Buffalo Creek	Jefferson	P.O. Box
+ZIP Code 80426	Burns	Eagle	P.O. Box
+ZIP Code 80427	Central City	Gilpin	P.O. Box
+ZIP Code 80428	Clark	Routt	Standard
+ZIP Code 80429	Climax	Lake	P.O. Box
+ZIP Code 80430	Coalmont	Jackson	Standard
+ZIP Code 80432	Como	Park	P.O. Box
+ZIP Code 80433	Conifer	Jefferson	Standard
+ZIP Code 80434	Cowdrey	Jackson	P.O. Box
+ZIP Code 80435	Dillon	Summit	Standard
+ZIP Code 80436	Dumont	Clear Creek	P.O. Box
+ZIP Code 80437	Evergreen	Jefferson	P.O. Box
+ZIP Code 80438	Empire	Clear Creek	P.O. Box
+ZIP Code 80439	Evergreen	Jefferson	Standard
+ZIP Code 80440	Fairplay	Park	Standard
+ZIP Code 80442	Fraser	Grand	P.O. Box
+ZIP Code 80443	Frisco	Summit	P.O. Box
+ZIP Code 80444	Georgetown	Clear Creek	P.O. Box
+ZIP Code 80446	Granby	Grand	Standard
+ZIP Code 80447	Grand Lake	Grand	Standard
+ZIP Code 80448	Grant	Park	P.O. Box
+ZIP Code 80449	Hartsel	Park	Standard
+ZIP Code 80451	Hot Sulphur Springs	Grand	P.O. Box
+ZIP Code 80452	Idaho Springs	Clear Creek	Standard
+ZIP Code 80453	Idledale	Jefferson	P.O. Box
+ZIP Code 80454	Indian Hills	Jefferson	P.O. Box
+ZIP Code 80455	Jamestown	Boulder	Standard
+ZIP Code 80456	Jefferson	Park	Standard
+ZIP Code 80457	Kittredge	Jefferson	P.O. Box
+ZIP Code 80459	Kremmling	Grand	Standard
+ZIP Code 80461	Leadville	Lake	Standard
+ZIP Code 80463	Mc Coy	Eagle	Standard
+ZIP Code 80465	Morrison	Jefferson	Standard
+ZIP Code 80466	Nederland	Boulder	Standard
+ZIP Code 80467	Oak Creek	Routt	Standard
+ZIP Code 80468	Parshall	Grand	Standard
+ZIP Code 80469	Phippsburg	Routt	P.O. Box
+ZIP Code 80470	Pine	Jefferson	Standard
+ZIP Code 80471	Pinecliffe	Boulder	P.O. Box
+ZIP Code 80473	Rand	Jackson	P.O. Box
+ZIP Code 80474	Rollinsville	Gilpin	P.O. Box
+ZIP Code 80475	Shawnee	Park	P.O. Box
+ZIP Code 80476	Silver Plume	Clear Creek	P.O. Box
+ZIP Code 80477	Steamboat Springs	Routt	P.O. Box
+ZIP Code 80478	Tabernash	Grand	P.O. Box
+ZIP Code 80479	Toponas	Routt	P.O. Box
+ZIP Code 80480	Walden	Jackson	Standard
+ZIP Code 80481	Ward	Boulder	Standard
+ZIP Code 80482	Winter Park	Grand	P.O. Box
+ZIP Code 80483	Yampa	Routt	P.O. Box
+ZIP Code 80487	Steamboat Springs	Routt	Standard
+ZIP Code 80488	Steamboat Springs	Routt	P.O. Box
+ZIP Code 80497	Silverthorne	Summit	P.O. Box
+ZIP Code 80498	Silverthorne	Summit	Standard
+ZIP Code 80501	Longmont	Boulder	Standard
+ZIP Code 80502	Longmont	Boulder	P.O. Box
+ZIP Code 80503	Longmont	Boulder	Standard
+ZIP Code 80504	Longmont	Weld	Standard
+ZIP Code 80510	Allenspark	Boulder	Standard
+ZIP Code 80511	Estes Park	Larimer	P.O. Box
+ZIP Code 80512	Bellvue	Larimer	Standard
+ZIP Code 80513	Berthoud	Larimer	Standard
+ZIP Code 80514	Dacono	Weld	Standard
+ZIP Code 80515	Drake	Larimer	Standard
+ZIP Code 80516	Erie	Boulder	Standard
+ZIP Code 80517	Estes Park	Larimer	Standard
+ZIP Code 80520	Firestone	Weld	P.O. Box
+ZIP Code 80521	Fort Collins	Larimer	Standard
+ZIP Code 80522	Fort Collins	Larimer	P.O. Box
+ZIP Code 80523	Fort Collins	Larimer	Unique
+ZIP Code 80524	Fort Collins	Larimer	Standard
+ZIP Code 80525	Fort Collins	Larimer	Standard
+ZIP Code 80526	Fort Collins	Larimer	Standard
+ZIP Code 80527	Fort Collins	Larimer	P.O. Box
+ZIP Code 80528	Fort Collins	Larimer	Standard
+ZIP Code 80530	Frederick	Weld	Standard
+ZIP Code 80532	Glen Haven	Larimer	P.O. Box
+ZIP Code 80533	Hygiene	Boulder	P.O. Box
+ZIP Code 80534	Johnstown	Weld	Standard
+ZIP Code 80535	Laporte	Larimer	Standard
+ZIP Code 80536	Livermore	Larimer	Standard
+ZIP Code 80537	Loveland	Larimer	Standard
+ZIP Code 80538	Loveland	Larimer	Standard
+ZIP Code 80539	Loveland	Larimer	P.O. Box
+ZIP Code 80540	Lyons	Boulder	Standard
+ZIP Code 80541	Masonville	Larimer	P.O. Box
+ZIP Code 80542	Mead	Weld	Standard
+ZIP Code 80543	Milliken	Weld	Standard
+ZIP Code 80544	Niwot	Boulder	P.O. Box
+ZIP Code 80545	Red Feather Lakes	Larimer	Standard
+ZIP Code 80546	Severance	Weld	P.O. Box
+ZIP Code 80547	Timnath	Larimer	Standard
+ZIP Code 80549	Wellington	Larimer	Standard
+ZIP Code 80550	Windsor	Weld	Standard
+ZIP Code 80551	Windsor	Weld	Unique
+ZIP Code 80553	Fort Collins	Larimer	Unique
+ZIP Code 80601	Brighton	Adams	Standard
+ZIP Code 80602	Brighton	Adams	Standard
+ZIP Code 80603	Brighton	Weld	Standard
+ZIP Code 80610	Ault	Weld	Standard
+ZIP Code 80611	Briggsdale	Weld	Standard
+ZIP Code 80612	Carr	Weld	Standard
+ZIP Code 80614	Eastlake	Adams	P.O. Box
+ZIP Code 80615	Eaton	Weld	Standard
+ZIP Code 80620	Evans	Weld	Standard
+ZIP Code 80621	Fort Lupton	Weld	Standard
+ZIP Code 80622	Galeton	Weld	Standard
+ZIP Code 80623	Gilcrest	Weld	P.O. Box
+ZIP Code 80624	Gill	Weld	Standard
+ZIP Code 80631	Greeley	Weld	Standard
+ZIP Code 80632	Greeley	Weld	P.O. Box
+ZIP Code 80633	Greeley	Weld	P.O. Box
+ZIP Code 80634	Greeley	Weld	Standard
+ZIP Code 80638	Greeley	Weld	Unique
+ZIP Code 80639	Greeley	Weld	Unique
+ZIP Code 80640	Henderson	Adams	Standard
+ZIP Code 80642	Hudson	Weld	Standard
+ZIP Code 80643	Keenesburg	Weld	Standard
+ZIP Code 80644	Kersey	Weld	Standard
+ZIP Code 80645	La Salle	Weld	Standard
+ZIP Code 80646	Lucerne	Weld	P.O. Box
+ZIP Code 80648	Nunn	Weld	Standard
+ZIP Code 80649	Orchard	Morgan	Standard
+ZIP Code 80650	Pierce	Weld	Standard
+ZIP Code 80651	Platteville	Weld	Standard
+ZIP Code 80652	Roggen	Weld	Standard
+ZIP Code 80653	Weldona	Morgan	Standard
+ZIP Code 80654	Wiggins	Morgan	Standard
+ZIP Code 80701	Fort Morgan	Morgan	Standard
+ZIP Code 80705	Log Lane Village	Morgan	Standard
+ZIP Code 80720	Akron	Washington	Standard
+ZIP Code 80721	Amherst	Phillips	Standard
+ZIP Code 80722	Atwood	Logan	Standard
+ZIP Code 80723	Brush	Morgan	Standard
+ZIP Code 80726	Crook	Logan	Standard
+ZIP Code 80727	Eckley	Yuma	Standard
+ZIP Code 80728	Fleming	Logan	Standard
+ZIP Code 80729	Grover	Weld	Standard
+ZIP Code 80731	Haxtun	Phillips	Standard
+ZIP Code 80732	Hereford	Weld	P.O. Box
+ZIP Code 80733	Hillrose	Morgan	Standard
+ZIP Code 80734	Holyoke	Phillips	Standard
+ZIP Code 80735	Idalia	Yuma	Standard
+ZIP Code 80736	Iliff	Logan	Standard
+ZIP Code 80737	Julesburg	Sedgwick	Standard
+ZIP Code 80740	Lindon	Washington	Standard
+ZIP Code 80741	Merino	Logan	Standard
+ZIP Code 80742	New Raymer	Weld	Standard
+ZIP Code 80743	Otis	Washington	Standard
+ZIP Code 80744	Ovid	Sedgwick	Standard
+ZIP Code 80745	Padroni	Logan	Standard
+ZIP Code 80746	Paoli	Phillips	Standard
+ZIP Code 80747	Peetz	Logan	Standard
+ZIP Code 80749	Sedgwick	Sedgwick	Standard
+ZIP Code 80750	Snyder	Morgan	Standard
+ZIP Code 80751	Sterling	Logan	Standard
+ZIP Code 80754	Stoneham	Weld	Standard
+ZIP Code 80755	Vernon	Yuma	Standard
+ZIP Code 80757	Woodrow	Washington	Standard
+ZIP Code 80758	Wray	Yuma	Standard
+ZIP Code 80759	Yuma	Yuma	Standard
+ZIP Code 80801	Anton	Washington	Standard
+ZIP Code 80802	Arapahoe	Cheyenne	Standard
+ZIP Code 80804	Arriba	Lincoln	Standard
+ZIP Code 80805	Bethune	Kit Carson	Standard
+ZIP Code 80807	Burlington	Kit Carson	Standard
+ZIP Code 80808	Calhan	El Paso	Standard
+ZIP Code 80809	Cascade	El Paso	Standard
+ZIP Code 80810	Cheyenne Wells	Cheyenne	Standard
+ZIP Code 80812	Cope	Washington	Standard
+ZIP Code 80813	Cripple Creek	Teller	Standard
+ZIP Code 80814	Divide	Teller	Standard
+ZIP Code 80815	Flagler	Kit Carson	Standard
+ZIP Code 80816	Florissant	Teller	Standard
+ZIP Code 80817	Fountain	El Paso	Standard
+ZIP Code 80818	Genoa	Lincoln	Standard
+ZIP Code 80819	Green Mountain Falls	El Paso	P.O. Box
+ZIP Code 80820	Guffey	Park	Standard
+ZIP Code 80821	Hugo	Lincoln	Standard
+ZIP Code 80822	Joes	Yuma	Standard
+ZIP Code 80823	Karval	Lincoln	Standard
+ZIP Code 80824	Kirk	Yuma	Standard
+ZIP Code 80825	Kit Carson	Cheyenne	Standard
+ZIP Code 80826	Limon	Lincoln	Unique
+ZIP Code 80827	Lake George	Park	Standard
+ZIP Code 80828	Limon	Lincoln	Standard
+ZIP Code 80829	Manitou Springs	El Paso	Standard
+ZIP Code 80830	Matheson	Elbert	Standard
+ZIP Code 80831	Peyton	El Paso	Standard
+ZIP Code 80832	Ramah	El Paso	Standard
+ZIP Code 80833	Rush	El Paso	Standard
+ZIP Code 80834	Seibert	Kit Carson	Standard
+ZIP Code 80835	Simla	Elbert	Standard
+ZIP Code 80836	Stratton	Kit Carson	Standard
+ZIP Code 80840	USAF Academy	El Paso	Standard
+ZIP Code 80841	USAF Academy	El Paso	P.O. Box
+ZIP Code 80860	Victor	Teller	P.O. Box
+ZIP Code 80861	Vona	Kit Carson	Standard
+ZIP Code 80862	Wild Horse	Cheyenne	P.O. Box
+ZIP Code 80863	Woodland Park	Teller	Standard
+ZIP Code 80864	Yoder	El Paso	Standard
+ZIP Code 80866	Woodland Park	Teller	P.O. Box
+ZIP Code 80901	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80902	Colorado Springs	El Paso	Standard
+ZIP Code 80903	Colorado Springs	El Paso	Standard
+ZIP Code 80904	Colorado Springs	El Paso	Standard
+ZIP Code 80905	Colorado Springs	El Paso	Standard
+ZIP Code 80906	Colorado Springs	El Paso	Standard
+ZIP Code 80907	Colorado Springs	El Paso	Standard
+ZIP Code 80908	Colorado Springs	El Paso	Standard
+ZIP Code 80909	Colorado Springs	El Paso	Standard
+ZIP Code 80910	Colorado Springs	El Paso	Standard
+ZIP Code 80911	Colorado Springs	El Paso	Standard
+ZIP Code 80912	Colorado Springs	El Paso	Standard
+ZIP Code 80913	Colorado Springs	El Paso	Standard
+ZIP Code 80914	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80915	Colorado Springs	El Paso	Standard
+ZIP Code 80916	Colorado Springs	El Paso	Standard
+ZIP Code 80917	Colorado Springs	El Paso	Standard
+ZIP Code 80918	Colorado Springs	El Paso	Standard
+ZIP Code 80919	Colorado Springs	El Paso	Standard
+ZIP Code 80920	Colorado Springs	El Paso	Standard
+ZIP Code 80921	Colorado Springs	El Paso	Standard
+ZIP Code 80922	Colorado Springs	El Paso	Standard
+ZIP Code 80923	Colorado Springs	El Paso	Standard
+ZIP Code 80924	Colorado Springs	El Paso	Standard
+ZIP Code 80925	Colorado Springs	El Paso	Standard
+ZIP Code 80926	Colorado Springs	El Paso	Standard
+ZIP Code 80927	Colorado Springs	El Paso	Standard
+ZIP Code 80928	Colorado Springs	El Paso	Standard
+ZIP Code 80929	Colorado Springs	El Paso	Standard
+ZIP Code 80930	Colorado Springs	El Paso	Standard
+ZIP Code 80931	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80932	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80933	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80934	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80935	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80936	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80937	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80938	Colorado Springs	El Paso	Standard
+ZIP Code 80939	Colorado Springs	El Paso	Standard
+ZIP Code 80941	Colorado Springs	El Paso	Unique
+ZIP Code 80942	Colorado Springs	El Paso	Unique
+ZIP Code 80946	Colorado Springs	El Paso	Unique
+ZIP Code 80947	Colorado Springs	El Paso	Unique
+ZIP Code 80949	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80950	Colorado Springs	El Paso	Unique
+ZIP Code 80951	Colorado Springs	El Paso	Standard
+ZIP Code 80960	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80962	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80970	Colorado Springs	El Paso	P.O. Box
+ZIP Code 80977	Colorado Springs	El Paso	Unique
+ZIP Code 80995	Colorado Springs	El Paso	Unique
+ZIP Code 80997	Colorado Springs	El Paso	Unique
+ZIP Code 81001	Pueblo	Pueblo	Standard
+ZIP Code 81002	Pueblo	Pueblo	P.O. Box
+ZIP Code 81003	Pueblo	Pueblo	Standard
+ZIP Code 81004	Pueblo	Pueblo	Standard
+ZIP Code 81005	Pueblo	Pueblo	Standard
+ZIP Code 81006	Pueblo	Pueblo	Standard
+ZIP Code 81007	Pueblo	Pueblo	Standard
+ZIP Code 81008	Pueblo	Pueblo	Standard
+ZIP Code 81009	Pueblo	Pueblo	Unique
+ZIP Code 81010	Pueblo	Pueblo	Unique
+ZIP Code 81011	Pueblo	Pueblo	Unique
+ZIP Code 81012	Pueblo	Pueblo	Unique
+ZIP Code 81019	Colorado City	Pueblo	P.O. Box
+ZIP Code 81020	Aguilar	Las Animas	Standard
+ZIP Code 81021	Arlington	Kiowa	Standard
+ZIP Code 81022	Avondale	Pueblo	Standard
+ZIP Code 81023	Beulah	Pueblo	Standard
+ZIP Code 81024	Boncarbo	Las Animas	Standard
+ZIP Code 81025	Boone	Pueblo	Standard
+ZIP Code 81027	Branson	Las Animas	Standard
+ZIP Code 81029	Campo	Baca	Standard
+ZIP Code 81030	Cheraw	Otero	P.O. Box
+ZIP Code 81033	Crowley	Crowley	P.O. Box
+ZIP Code 81034	Ordway	Crowley	Unique
+ZIP Code 81036	Eads	Kiowa	Standard
+ZIP Code 81038	Fort Lyon	Bent	P.O. Box
+ZIP Code 81039	Fowler	Otero	Standard
+ZIP Code 81040	Gardner	Huerfano	Standard
+ZIP Code 81041	Granada	Prowers	Standard
+ZIP Code 81043	Hartman	Prowers	P.O. Box
+ZIP Code 81044	Hasty	Bent	Standard
+ZIP Code 81045	Haswell	Kiowa	Standard
+ZIP Code 81046	Hoehne	Las Animas	P.O. Box
+ZIP Code 81047	Holly	Prowers	Standard
+ZIP Code 81049	Kim	Las Animas	Standard
+ZIP Code 81050	La Junta	Otero	Standard
+ZIP Code 81052	Lamar	Prowers	Standard
+ZIP Code 81054	Las Animas	Bent	Standard
+ZIP Code 81055	La Veta	Huerfano	Standard
+ZIP Code 81057	Mc Clave	Bent	Standard
+ZIP Code 81058	Manzanola	Otero	Standard
+ZIP Code 81059	Model	Las Animas	Standard
+ZIP Code 81062	Olney Springs	Crowley	Standard
+ZIP Code 81063	Ordway	Crowley	Standard
+ZIP Code 81064	Pritchett	Baca	Standard
+ZIP Code 81067	Rocky Ford	Otero	Standard
+ZIP Code 81069	Rye	Pueblo	Standard
+ZIP Code 81071	Sheridan Lake	Kiowa	Standard
+ZIP Code 81073	Springfield	Baca	Standard
+ZIP Code 81076	Sugar City	Crowley	Standard
+ZIP Code 81077	Swink	Otero	P.O. Box
+ZIP Code 81081	Trinchera	Las Animas	Standard
+ZIP Code 81082	Trinidad	Las Animas	Standard
+ZIP Code 81084	Two Buttes	Baca	Standard
+ZIP Code 81087	Vilas	Baca	P.O. Box
+ZIP Code 81089	Walsenburg	Huerfano	Standard
+ZIP Code 81090	Walsh	Baca	Standard
+ZIP Code 81091	Weston	Las Animas	Standard
+ZIP Code 81092	Wiley	Prowers	Standard
+ZIP Code 81101	Alamosa	Alamosa	Standard
+ZIP Code 81102	Alamosa	Alamosa	Unique
+ZIP Code 81120	Antonito	Conejos	Standard
+ZIP Code 81121	Arboles	Archuleta	P.O. Box
+ZIP Code 81122	Bayfield	La Plata	Standard
+ZIP Code 81123	Blanca	Costilla	Standard
+ZIP Code 81124	Capulin	Conejos	P.O. Box
+ZIP Code 81125	Center	Rio Grande	Standard
+ZIP Code 81126	Chama	Costilla	P.O. Box
+ZIP Code 81128	Chromo	Archuleta	P.O. Box
+ZIP Code 81129	Conejos	Conejos	P.O. Box
+ZIP Code 81130	Creede	Mineral	Standard
+ZIP Code 81131	Crestone	Saguache	P.O. Box
+ZIP Code 81132	Del Norte	Rio Grande	Standard
+ZIP Code 81133	Fort Garland	Costilla	Standard
+ZIP Code 81135	Homelake	Rio Grande	P.O. Box
+ZIP Code 81136	Hooper	Alamosa	Standard
+ZIP Code 81137	Ignacio	La Plata	Standard
+ZIP Code 81138	Jaroso	Costilla	P.O. Box
+ZIP Code 81140	La Jara	Conejos	Standard
+ZIP Code 81141	Manassa	Conejos	P.O. Box
+ZIP Code 81143	Moffat	Saguache	Standard
+ZIP Code 81144	Monte Vista	Rio Grande	Standard
+ZIP Code 81146	Mosca	Alamosa	Standard
+ZIP Code 81147	Pagosa Springs	Archuleta	Standard
+ZIP Code 81148	Romeo	Conejos	P.O. Box
+ZIP Code 81149	Saguache	Saguache	Standard
+ZIP Code 81151	Sanford	Conejos	Standard
+ZIP Code 81152	San Luis	Costilla	Standard
+ZIP Code 81154	South Fork	Rio Grande	Standard
+ZIP Code 81155	Villa Grove	Saguache	Standard
+ZIP Code 81157	Pagosa Springs	Archuleta	P.O. Box
+ZIP Code 81201	Salida	Chaffee	Standard
+ZIP Code 81210	Almont	Gunnison	Standard
+ZIP Code 81211	Buena Vista	Chaffee	Standard
+ZIP Code 81212	Canon City	Fremont	Standard
+ZIP Code 81215	Canon City	Fremont	P.O. Box
+ZIP Code 81220	Cimarron	Montrose	Standard
+ZIP Code 81221	Coal Creek	Fremont	P.O. Box
+ZIP Code 81222	Coaldale	Fremont	P.O. Box
+ZIP Code 81223	Cotopaxi	Fremont	Standard
+ZIP Code 81224	Crested Butte	Gunnison	Standard
+ZIP Code 81225	Crested Butte	Gunnison	P.O. Box
+ZIP Code 81226	Florence	Fremont	Standard
+ZIP Code 81227	Monarch	Chaffee	P.O. Box
+ZIP Code 81228	Granite	Chaffee	Standard
+ZIP Code 81230	Gunnison	Gunnison	Standard
+ZIP Code 81231	Gunnison	Gunnison	Unique
+ZIP Code 81232	Hillside	Fremont	P.O. Box
+ZIP Code 81233	Howard	Fremont	Standard
+ZIP Code 81235	Lake City	Hinsdale	Standard
+ZIP Code 81236	Nathrop	Chaffee	Standard
+ZIP Code 81237	Ohio City	Gunnison	Standard
+ZIP Code 81239	Parlin	Gunnison	Standard
+ZIP Code 81240	Penrose	Fremont	Standard
+ZIP Code 81241	Pitkin	Gunnison	P.O. Box
+ZIP Code 81242	Poncha Springs	Chaffee	P.O. Box
+ZIP Code 81243	Powderhorn	Gunnison	Standard
+ZIP Code 81244	Rockvale	Fremont	P.O. Box
+ZIP Code 81248	Sargents	Saguache	P.O. Box
+ZIP Code 81251	Twin Lakes	Lake	Standard
+ZIP Code 81252	Westcliffe	Custer	Standard
+ZIP Code 81253	Wetmore	Custer	Standard
+ZIP Code 81290	Florence	Fremont	Unique
+ZIP Code 81301	Durango	La Plata	Standard
+ZIP Code 81302	Durango	La Plata	P.O. Box
+ZIP Code 81303	Durango	La Plata	Standard
+ZIP Code 81320	Cahone	Dolores	Standard
+ZIP Code 81321	Cortez	Montezuma	Standard
+ZIP Code 81323	Dolores	Montezuma	Standard
+ZIP Code 81324	Dove Creek	Dolores	Standard
+ZIP Code 81325	Egnar	San Miguel	Standard
+ZIP Code 81326	Hesperus	La Plata	Standard
+ZIP Code 81327	Lewis	Montezuma	Standard
+ZIP Code 81328	Mancos	Montezuma	Standard
+ZIP Code 81329	Marvel	La Plata	P.O. Box
+ZIP Code 81330	Mesa Verde National Park	Montezuma	P.O. Box
+ZIP Code 81331	Pleasant View	Montezuma	Standard
+ZIP Code 81332	Rico	Dolores	P.O. Box
+ZIP Code 81334	Towaoc	Montezuma	P.O. Box
+ZIP Code 81335	Yellow Jacket	Montezuma	Standard
+ZIP Code 81401	Montrose	Montrose	Standard
+ZIP Code 81402	Montrose	Montrose	P.O. Box
+ZIP Code 81403	Montrose	Montrose	Standard
+ZIP Code 81410	Austin	Delta	Standard
+ZIP Code 81411	Bedrock	Montrose	Standard
+ZIP Code 81413	Cedaredge	Delta	Standard
+ZIP Code 81414	Cory	Delta	P.O. Box
+ZIP Code 81415	Crawford	Delta	Standard
+ZIP Code 81416	Delta	Delta	Standard
+ZIP Code 81418	Eckert	Delta	Standard
+ZIP Code 81419	Hotchkiss	Delta	Standard
+ZIP Code 81420	Lazear	Delta	P.O. Box
+ZIP Code 81422	Naturita	Montrose	Standard
+ZIP Code 81423	Norwood	San Miguel	P.O. Box
+ZIP Code 81424	Nucla	Montrose	Standard
+ZIP Code 81425	Olathe	Montrose	Standard
+ZIP Code 81426	Ophir	San Miguel	P.O. Box
+ZIP Code 81427	Ouray	Ouray	P.O. Box
+ZIP Code 81428	Paonia	Delta	Standard
+ZIP Code 81429	Paradox	Montrose	P.O. Box
+ZIP Code 81430	Placerville	San Miguel	P.O. Box
+ZIP Code 81431	Redvale	Montrose	Standard
+ZIP Code 81432	Ridgway	Ouray	Standard
+ZIP Code 81433	Silverton	San Juan	P.O. Box
+ZIP Code 81434	Somerset	Gunnison	Standard
+ZIP Code 81435	Telluride	San Miguel	Standard
+ZIP Code 81501	Grand Junction	Mesa	Standard
+ZIP Code 81502	Grand Junction	Mesa	P.O. Box
+ZIP Code 81503	Grand Junction	Mesa	Standard
+ZIP Code 81504	Grand Junction	Mesa	Standard
+ZIP Code 81505	Grand Junction	Mesa	Standard
+ZIP Code 81506	Grand Junction	Mesa	Standard
+ZIP Code 81507	Grand Junction	Mesa	Standard
+ZIP Code 81520	Clifton	Mesa	Standard
+ZIP Code 81521	Fruita	Mesa	Standard
+ZIP Code 81522	Gateway	Mesa	Standard
+ZIP Code 81523	Glade Park	Mesa	Standard
+ZIP Code 81524	Loma	Mesa	Standard
+ZIP Code 81525	Mack	Mesa	Standard
+ZIP Code 81526	Palisade	Mesa	Standard
+ZIP Code 81527	Whitewater	Mesa	Standard
+ZIP Code 81601	Glenwood Springs	Garfield	Standard
+ZIP Code 81602	Glenwood Springs	Garfield	P.O. Box
+ZIP Code 81610	Dinosaur	Moffat	Standard
+ZIP Code 81611	Aspen	Pitkin	Standard
+ZIP Code 81612	Aspen	Pitkin	P.O. Box
+ZIP Code 81615	Snowmass Village	Pitkin	P.O. Box
+ZIP Code 81620	Avon	Eagle	P.O. Box
+ZIP Code 81621	Basalt	Eagle	Standard
+ZIP Code 81623	Carbondale	Garfield	Standard
+ZIP Code 81624	Collbran	Mesa	Standard
+ZIP Code 81625	Craig	Moffat	Standard
+ZIP Code 81626	Craig	Moffat	P.O. Box
+ZIP Code 81630	De Beque	Mesa	Standard
+ZIP Code 81631	Eagle	Eagle	P.O. Box
+ZIP Code 81632	Edwards	Eagle	Standard
+ZIP Code 81633	Dinosaur	Moffat	Standard
+ZIP Code 81635	Parachute	Garfield	Standard
+ZIP Code 81636	Battlement Mesa	Garfield	P.O. Box
+ZIP Code 81637	Gypsum	Eagle	Standard
+ZIP Code 81638	Hamilton	Moffat	Standard
+ZIP Code 81639	Hayden	Routt	Standard
+ZIP Code 81640	Maybell	Moffat	Standard
+ZIP Code 81641	Meeker	Rio Blanco	Standard
+ZIP Code 81642	Meredith	Pitkin	Standard
+ZIP Code 81643	Mesa	Mesa	P.O. Box
+ZIP Code 81645	Minturn	Eagle	P.O. Box
+ZIP Code 81646	Molina	Mesa	P.O. Box
+ZIP Code 81647	New Castle	Garfield	Standard
+ZIP Code 81648	Rangely	Rio Blanco	Standard
+ZIP Code 81649	Red Cliff	Eagle	P.O. Box
+ZIP Code 81650	Rifle	Garfield	Standard
+ZIP Code 81652	Silt	Garfield	Standard
+ZIP Code 81653	Slater	Moffat	Standard
+ZIP Code 81654	Snowmass	Pitkin	Standard
+ZIP Code 81655	Wolcott	Eagle	P.O. Box
+ZIP Code 81656	Woody Creek	Pitkin	P.O. Box
+ZIP Code 81657	Vail	Eagle	Standard
+ZIP Code 81658	Vail	Eagle	P.O. Box
