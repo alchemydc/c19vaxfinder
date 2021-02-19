@@ -77,13 +77,11 @@ def checkAvailability(locations):
         }
     
         response = http.post(WALGREENS_API, headers = http_headers, json = payload)
-        #print(response)
         data = response.json()
         isAvailable = data['appointmentsAvailable']
         if isAvailable:
             print("Good news, there is an appointment available at %s, ZIP %s" % (location['name'], location['zip']) )
             discordEmbed(location, DISCORD_WEBHOOK)
-            ## FIXME: SEND ALERT
         else:
             print("Sorry, no appointment available at %s" % location['name'])
         
@@ -94,7 +92,6 @@ def discordEmbed(data, discord_uri):
         'Accept': 'application/json'
     }
 
-    #description = "C19 vaccination appointment found for %s in zipcode %s" % (data['name'], data['zip'])
     description = "C19 vaccination appointment available for %s" % data['name']
     
     payload = {
@@ -122,8 +119,6 @@ def discordEmbed(data, discord_uri):
             ]
         }
     response = http.post(discord_uri, headers=http_headers, json=payload)
-    #print(response.content)
-
 
 def main():
     locations = readFile(LATLONG_FILE)
