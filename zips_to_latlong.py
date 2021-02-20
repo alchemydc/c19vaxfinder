@@ -33,7 +33,7 @@ GOOG_GEOCODING_APIKEY    = os.getenv('GOOG_GEOCODING_APIKEY')
 # constants
 
 GOOG_LOC_API_BASE     = 'https://maps.googleapis.com/maps/api/geocode/json?key=' + GOOG_GEOCODING_APIKEY + '&components=postal_code:'
-ZIPCODE_FILE          = './static_data/walgreens_co_ca_md_zips.txt'
+ZIPCODE_FILE          = './static_data/walgreens_zipcodes.txt'
 LATLONG_FILE          = './static_data/latlong_data.json'
 
 http_headers = {
