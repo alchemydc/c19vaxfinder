@@ -25,7 +25,7 @@ def logging_hook(response, *args, **kwargs):
     print(data.decode('utf-8'))
 
 #setup Requests to log request and response to stdout verbosely
-#http.hooks["response"] = [logging_hook]
+http.hooks["response"] = [logging_hook]
 
 # read secrets from env vars
 env_path                = Path('.') / '.env'
