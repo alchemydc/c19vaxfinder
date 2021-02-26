@@ -1,0 +1,5 @@
+# m h  dom mon dow   command
+# run every 4 hours
+#0 */4 * * *     /home/c19vaxfinder/c19vaxfinder/c19vaxfinder.sh > /dev/null 2>&1
+# run every day at 7am local
+*/5 * * * *     /home/c19vaxfinder/c19vaxfinder/pharmaca.sh > /dev/null 2>&1
