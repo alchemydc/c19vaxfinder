@@ -157,8 +157,9 @@ def checkPharmaca(locations):
         payload = "type=19573151&calendar=" + str(location['calendar']) + "&skip=true&options%5Bqty%5D=1&options%5BnumDays%5D=5&ignoreAppointment=&appointmentType=&calendarID=" + str(location['calendarID'])
         response = http.post(PHARMACA_REQ_URI, headers = http_headers, data = payload)
         data = response.text
-        if data.find("No times are available"):
-            print("no times found. bum deal dude")
-        else:
+        if data.find("choose-time") >= 0:
             print("woot! found an appointment at Pharmaca on %s" % location['name'])
             discordEmbed(location, "Pharmaca", PHARMACA_BASEURI+location['name'], DISCORD_WEBHOOK)
+        else:
+            print("no times found. bum deal dude")
+
