@@ -2,4 +2,4 @@
 # run every 4 hours
 #0 */4 * * *     /home/c19vaxfinder/c19vaxfinder/c19vaxfinder.sh > /dev/null 2>&1
 # run every day at 7am local
-00 07 * * *     /home/c19vaxfinder/c19vaxfinder/c19vaxfinder.sh > /dev/null 2>&1
+00 07 * * *     /home/c19vaxfinder/c19vaxfinder/walgreens.sh > /dev/null 2>&1

@@ -23,7 +23,7 @@ def logging_hook(response, *args, **kwargs):
     print(data.decode('utf-8'))
 
 #setup Requests to log request and response to stdout verbosely
-http.hooks["response"] = [logging_hook]
+#http.hooks["response"] = [logging_hook]
 
 # read secrets from env vars
 env_path                = Path('.') / '.env'
@@ -154,17 +154,3 @@ def checkPharmaca(locations):
         else:
             print("woot! found an appointment at Pharmaca on %s" % location['name'])
             discordEmbed(location, "Pharmaca", PHARMACA_BASEURI+location['name'], DISCORD_WEBHOOK)
-            
-
-
-def main():
-    #read walgreens lat longs from file
-    walgreensLocations = readFile(LATLONG_FILE)
-    # check lat longs against walgreens API
-    checkWalgreensAvailability(walgreensLocations)
-    # check Pharmaca availability
-    checkPharmaca(pharmacaLocations)
-        
-
-if __name__ == "__main__":
-    main()

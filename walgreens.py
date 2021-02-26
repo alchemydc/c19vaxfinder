@@ -12,10 +12,11 @@ from pathlib import Path
 from datetime import date
 from c19vaxfinder import *
 
-
 def main():
-    checkPharmaca(pharmacaLocations)
-        
+    #read walgreens lat longs from file
+    walgreensLocations = readFile(LATLONG_FILE)
+    # check lat longs against walgreens API
+    checkWalgreensAvailability(walgreensLocations)
 
 if __name__ == "__main__":
     main()
