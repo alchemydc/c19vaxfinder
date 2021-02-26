@@ -10,6 +10,8 @@ import sys
 from dotenv import load_dotenv
 from pathlib import Path
 from datetime import date
+from random import randint
+from time import sleep
 
 # create a custom requests object, modifying the global module throws an error
 # provides intrinic exception handling for requests without try/except
@@ -54,6 +56,9 @@ pharmacaLocations = [
             'uri'       : PHARMACA_BASEURI + "broadway"
         }
     ]
+MINIMUM_DELAY = 1    # minimum delay is 1s
+MAXIMUM_DELAY = 30   # max delay is 30s
+
 
 http_headers = {
         'Content-Type': 'application/json',
@@ -100,6 +105,9 @@ def checkWalgreensAvailability(locations):
             discordEmbed(location, "Walgreens", WALGREENS_URI, DISCORD_WEBHOOK)
         else:
             print("Sorry, no appointment available at %s" % location['name'])
+        time_to_sleep = randint(MINIMUM_DELAY, MAXIMUM_DELAY)
+        print("Sleeping %i s" % time_to_sleep)
+        sleep(time_to_sleep)
         
 def discordEmbed(data, provider, provider_uri, discord_uri):
     print("Sending alert data for provider_uri %s to discord at %s" % (provider_uri, discord_uri))
