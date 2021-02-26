@@ -5,3 +5,5 @@
 00 07 * * *     /home/c19vaxfinder/c19vaxfinder/walgreens.sh > /dev/null 2>&1
 # run every 5 mins
 */5 * * * *     /home/c19vaxfinder/c19vaxfinder/pharmaca.sh > /dev/null 2>&1
+# run every 30 mins
+*/30 * * * *     /home/c19vaxfinder/c19vaxfinder/walgreens_co.sh > /dev/null 2>&1
