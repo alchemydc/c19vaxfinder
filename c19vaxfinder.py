@@ -25,7 +25,7 @@ def logging_hook(response, *args, **kwargs):
     print(data.decode('utf-8'))
 
 #setup Requests to log request and response to stdout verbosely
-http.hooks["response"] = [logging_hook]
+#http.hooks["response"] = [logging_hook]
 
 # read secrets from env vars
 env_path                = Path('.') / '.env'
@@ -91,23 +91,25 @@ def checkWalgreensAvailability(locations):
                 },
             "appointmentAvailability":
                 {
-                    #"startDateTime":"2021-02-19"                              # FIXME: need to use current date in this format date.today().strftime("%Y-%m-%d")
-                    "startDateTime": date.today().strftime("%Y-%m-%d")         
+                    "startDateTime": date.today().strftime("%Y-%m-%d")      #"startDateTime":"2021-02-19"
                 },
             "radius":25
         }
     
         response = http.post(WALGREENS_API, headers = http_headers, json = payload)
-        data = response.json()
-        isAvailable = data['appointmentsAvailable']
-        if isAvailable:
-            print("Good news, there is an appointment available at Walgreens %s, ZIP %s" % (location['name'], location['zip']) )
-            discordEmbed(location, "Walgreens", WALGREENS_URI, DISCORD_WEBHOOK)
+        if response.status_code == 200:
+            data = response.json()
+            isAvailable = data['appointmentsAvailable']
+            if isAvailable:
+                print("Good news, there is an appointment available at Walgreens %s, ZIP %s" % (location['name'], location['zip']) )
+                discordEmbed(location, "Walgreens", WALGREENS_URI, DISCORD_WEBHOOK)
+            else:
+                print("Sorry, no appointment available at %s" % location['name'])
+            time_to_sleep = randint(MINIMUM_DELAY, MAXIMUM_DELAY)
+            print("Sleeping %i s" % time_to_sleep)
+            sleep(time_to_sleep)
         else:
-            print("Sorry, no appointment available at %s" % location['name'])
-        time_to_sleep = randint(MINIMUM_DELAY, MAXIMUM_DELAY)
-        print("Sleeping %i s" % time_to_sleep)
-        sleep(time_to_sleep)
+            print("Exception http/%s requesting availability for %s" % (response.status_code, location['name']))
         
 def discordEmbed(data, provider, provider_uri, discord_uri):
     print("Sending alert data for provider_uri %s to discord at %s" % (provider_uri, discord_uri))
@@ -156,10 +158,13 @@ def checkPharmaca(locations):
         print("checking Pharmaca availability in %s" % location['name'])
         payload = "type=19573151&calendar=" + str(location['calendar']) + "&skip=true&options%5Bqty%5D=1&options%5BnumDays%5D=5&ignoreAppointment=&appointmentType=&calendarID=" + str(location['calendarID'])
         response = http.post(PHARMACA_REQ_URI, headers = http_headers, data = payload)
-        data = response.text
-        if data.find("choose-time") >= 0:
-            print("woot! found an appointment at Pharmaca on %s" % location['name'])
-            discordEmbed(location, "Pharmaca", PHARMACA_BASEURI+location['name'], DISCORD_WEBHOOK)
+        if response.status_code == 200:
+            data = response.text
+            if data.find("choose-time") >= 0:
+                print("woot! found an appointment at Pharmaca on %s" % location['name'])
+                discordEmbed(location, "Pharmaca", PHARMACA_BASEURI+location['name'], DISCORD_WEBHOOK)
+            else:
+                print("no times found. bum deal dude")
         else:
-            print("no times found. bum deal dude")
+            print("Exception http/%s requesting availability for %s" % (response.status_code, location['name']))
 
