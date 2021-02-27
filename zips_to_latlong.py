@@ -22,7 +22,7 @@ def logging_hook(response, *args, **kwargs):
     print(data.decode('utf-8'))
 
 #setup Requests to log request and response to stdout verbosely
-http.hooks["response"] = [logging_hook]
+#http.hooks["response"] = [logging_hook]
 
 # read secrets from env vars
 env_path                = Path('.') / '.env'
@@ -47,14 +47,9 @@ http_headers = {
 def readFile(filename):
     #print('hello readFile')
     print('opening file %s for reading' % filename)
-    try:
-        file = open(filename,'r')
-        data = file.readlines()
-        file.close()
+    with open(filename, 'r') as infile:
+        data=infile.readlines()
         return(data)
-    except Exception:
-        print("Error reading zipcode file")
-        sys.exit(1)
 
 def writeFile(data, filename):
     print('opening file %s for writing' % filename)
@@ -69,6 +64,7 @@ def getData(zipcodes):
         print(url)
         response = http.get(url, headers=http_headers)
         if response.status_code == 200:
+            print("http/%s" % response.status_code)
             data = response.json()
             if data['status'] == "OK": 
                 decoratedZipcodes.append({
@@ -77,6 +73,8 @@ def getData(zipcodes):
                     'longitude' : data['results'][0]['geometry']['location']['lng'],
                     'name'      : data['results'][0]['formatted_address']
                 })
+        else:
+            print("Exception http/%s requesting latlong for ZIP %s" % (response.status_code, zipcode))
     return(decoratedZipcodes)
 
 def main():
