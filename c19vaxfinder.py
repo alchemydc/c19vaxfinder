@@ -54,8 +54,15 @@ pharmacaLocations = [
             'calendar'  : 4490121,
             'calendarID': 4222367,
             'uri'       : PHARMACA_BASEURI + "broadway"
+        },
+        {
+            'name'      : "menlopark",
+            'calendar'  : 5070402,
+            'calendarID': 4222528,
+            'uri'       : PHARMACA_BASEURI + "menlopark"
         }
     ]
+
 MINIMUM_DELAY = 1    # minimum delay is 1s
 MAXIMUM_DELAY = 30   # max delay is 30s
 
