@@ -56,6 +56,12 @@ pharmacaLocations = [
             'uri'       : PHARMACA_BASEURI + "broadway"
         },
         {
+            'name'      : "greenwoodvillage",
+            'calendar'  : 5258035,
+            'calendarID': 4222456,
+            'uri'       : PHARMACA_BASEURI + "greenwoodvillage"
+        },
+        {
             'name'      : "menlopark",
             'calendar'  : 5070402,
             'calendarID': 4222528,
@@ -85,12 +91,7 @@ pharmacaLocations = [
             'calendarID': 4222444,
             'uri'       : PHARMACA_BASEURI + "madisonpark"
         },
-        {
-            'name'      : "greenwoodvillage",
-            'calendar'  : 5258035,
-            'calendarID': 4222456,
-            'uri'       : PHARMACA_BASEURI + "redmond"
-        }
+        
     ]
 
 MINIMUM_DELAY = 1    # minimum delay is 1s
