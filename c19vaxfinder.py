@@ -66,6 +66,12 @@ pharmacaLocations = [
             'calendar'  : 4489970,
             'calendarID': 4222468,
             'uri'       : PHARMACA_BASEURI + "redmond"
+        },
+        {
+            'name'      : "greenwoodvillage",
+            'calendar'  : 5258035,
+            'calendarID': 4222521,
+            'uri'       : PHARMACA_BASEURI + "redmond"
         }
     ]
 
