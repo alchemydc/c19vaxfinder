@@ -60,6 +60,12 @@ pharmacaLocations = [
             'calendar'  : 5070402,
             'calendarID': 4222528,
             'uri'       : PHARMACA_BASEURI + "menlopark"
+        },
+        {
+            'name'      : "redmond",
+            'calendar'  : 4489970,
+            'calendarID': 4222468,
+            'uri'       : PHARMACA_BASEURI + "redmond"
         }
     ]
 
