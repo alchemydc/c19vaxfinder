@@ -80,6 +80,12 @@ pharmacaLocations = [
             'uri'       : PHARMACA_BASEURI + "wallingford"
         },
         {
+            'name'      : "madisonpark",
+            'calendar'  : 4350221,
+            'calendarID': 4222444,
+            'uri'       : PHARMACA_BASEURI + "madisonpark"
+        },
+        {
             'name'      : "greenwoodvillage",
             'calendar'  : 5258035,
             'calendarID': 4222456,
@@ -105,6 +111,9 @@ def readFile(filename):
 
 def checkWalgreensAvailability(locations):
     
+    print("Walgreens has moved the endpoint behind an auth wall, so this module is now deprecated")
+    return(0)
+
     for location in locations:
         
         #print(location['zip'])
@@ -188,6 +197,7 @@ def checkPharmaca(locations):
     for location in locations:
         print("checking Pharmaca availability in %s" % location['name'])
         payload = "type=19573151&calendar=" + str(location['calendar']) + "&skip=true&options%5Bqty%5D=1&options%5BnumDays%5D=5&ignoreAppointment=&appointmentType=&calendarID=" + str(location['calendarID'])
+        # note that the type param above does change (in the webUI) and may refer to vax type, but appears not to be required for us to enumerate available appts of any type
         response = http.post(PHARMACA_REQ_URI, headers = http_headers, data = payload)
         if response.status_code == 200:
             data = response.text
