@@ -71,7 +71,13 @@ pharmacaLocations = [
             'name'      : "westseattle",
             'calendar'  : 4350219,
             'calendarID': 4222468,
-            'uri'       : PHARMACA_BASEURI + "redmond"
+            'uri'       : PHARMACA_BASEURI + "westseattle"
+        },
+        {
+            'name'      : "wallingford",
+            'calendar'  : 4350225,
+            'calendarID': 4222440,
+            'uri'       : PHARMACA_BASEURI + "wallingford"
         },
         {
             'name'      : "greenwoodvillage",
